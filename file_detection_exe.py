@@ -25,7 +25,8 @@ class Handler(PatternMatchingEventHandler):
         path = event.src_path
         if "AppData" not in path:       # This is set so that temp/cache files are skipped for any program.
             hash_file_detection(path)
-
+            
+# This will initiate watchdog 
 def initiate_watchdog():
     username = getpass.getuser()  # getting the usernam of the user
     path = r"C:\Users\%s" % username
