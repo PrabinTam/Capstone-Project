@@ -1,8 +1,10 @@
 # Capstone-Project
+
 External Libraries used in this project so far:
-Watcdog
-psutil
-requests
+
+    Watcdog
+    psutil
+    requests
 
 This is a project I am doing for capstone project.
 First, I will mention that this is still ongoing project hence the files I have commited will undergo changes. 
