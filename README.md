@@ -22,6 +22,6 @@ How is it a Mini-antivirus:
     
     The third part of the script [sensitive_info_exe.py] is going to go through all the files inlcuding the new ones that gets added, and checks if it contains personal informion such as credit Card number and SSN and lets the users know about it. [Status = In progress]
     
-    Note: Just because it states that it is completed does not mean it is complted, it just means that it does what the description states but still needs some work to make it look better!
+    Note: Just because it states that it is completed does not mean it is completed, it just means that it does what the description states but still needs some work to make it look better!
     
     
