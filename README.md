@@ -19,7 +19,7 @@ How is it a Mini-antivirus:
     The reason to use powershell over python was becuase when running with Python, it was giving some strange unexpected error so insteaad used powershell, which is automatically run when running processes_check.py
     once the hash it taken, it is ran against the virus total, using its API to determine if it is malicious. [Status = Completed]
  
-[processes_check.py]
+[file_detection_exe.py]
     
     The Second part of the script  will run in the system in startup and detect if any file is added on the system. Once it detects that file has been added to the system , it will check if it is malicious or not using the same process as the first part of the project. [Completed]
     note: Exe is in the file name because it will be converted into an exe so that it can run in start up of Windows OS [Status = In progress]
