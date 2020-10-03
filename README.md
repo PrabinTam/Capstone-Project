@@ -2,7 +2,7 @@
 
 External Libraries used in this project so far:
 
-    Watcdog
+    Watchdog
     psutil
     requests
 
