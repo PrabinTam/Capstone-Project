@@ -9,9 +9,9 @@ External Libraries used in this project so far:
 This project is still ongoing project hence the files I have commited will undergo changes. 
 
 Now, what does this project do?
-    This project is writeen in python, which will act as a mini-antivirus
+    This project is writeen in python, which will act as a SafeGuard
     
-How is it a Mini-antivirus:
+How is it a SafeGuard:
 
 [processes_check.py]
 
