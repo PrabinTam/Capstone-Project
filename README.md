@@ -1,4 +1,4 @@
-# Mini-Antivirus
+# SafeGuard
 
 External Libraries used in this project so far:
 
